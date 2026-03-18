@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36518.9
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "matrice_trasporta", "matrice_trasporta\matrice_trasporta.csproj", "{1C0333B0-4B2F-44BE-8167-1B5F5DE88221}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "trasporta_non_quadrata", "trasporta_non_quadrata\trasporta_non_quadrata.csproj", "{624A0D23-E79B-426F-9FC2-A238118B7D6A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C0333B0-4B2F-44BE-8167-1B5F5DE88221}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C0333B0-4B2F-44BE-8167-1B5F5DE88221}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C0333B0-4B2F-44BE-8167-1B5F5DE88221}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C0333B0-4B2F-44BE-8167-1B5F5DE88221}.Release|Any CPU.Build.0 = Release|Any CPU
+		{624A0D23-E79B-426F-9FC2-A238118B7D6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{624A0D23-E79B-426F-9FC2-A238118B7D6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{624A0D23-E79B-426F-9FC2-A238118B7D6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{624A0D23-E79B-426F-9FC2-A238118B7D6A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {579EAB6B-4C56-4DA9-80A0-13A5B87DBC70}
+	EndGlobalSection
+EndGlobal
