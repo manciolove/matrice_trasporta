@@ -20,10 +20,7 @@
             {
                 for (int j = 0; j < m.GetLength(1); j++)
                 {
-                    if (m.GetLength(0) == M.GetLength(1))
-                    {
-                        M[j, i] = m[i, j];
-                    }
+                    M[j, i] = m[i, j];
                 }
             }
             return M;
